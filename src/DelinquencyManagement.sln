@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelinquencyManagement.API", "DelinquencyManagement.API\DelinquencyManagement.API.csproj", "{A86B83CD-E067-4584-9030-F7D29D6BDA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelinquencyManagement.AppHost", "DelinquencyManagement.AppHost\DelinquencyManagement.AppHost.csproj", "{6A720289-2968-4B3B-924C-2875FE925902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A86B83CD-E067-4584-9030-F7D29D6BDA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86B83CD-E067-4584-9030-F7D29D6BDA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86B83CD-E067-4584-9030-F7D29D6BDA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86B83CD-E067-4584-9030-F7D29D6BDA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A720289-2968-4B3B-924C-2875FE925902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A720289-2968-4B3B-924C-2875FE925902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A720289-2968-4B3B-924C-2875FE925902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A720289-2968-4B3B-924C-2875FE925902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E9DB8C-D9EF-4D39-B7F0-8AFBF0E879E2}
+	EndGlobalSection
+EndGlobal

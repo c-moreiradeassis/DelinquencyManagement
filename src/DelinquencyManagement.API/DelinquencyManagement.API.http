@@ -1,0 +1,6 @@
+@DelinquencyManagement.API_HostAddress = http://localhost:5212
+
+GET {{DelinquencyManagement.API_HostAddress}}/api/customers/
+Accept: application/json
+
+###

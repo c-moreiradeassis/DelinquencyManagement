@@ -1,0 +1,25 @@
+{
+  "resourceSpans": [
+    {
+      "resource": {
+        "attributes": [
+          {"key": "service.name", "value": {"stringValue": "otel-test"}}
+        ]
+      },
+      "instrumentationLibrarySpans": [
+        {
+          "spans": [
+            {
+              "traceId": "0af7651916cd43dd8448eb211c80319c",
+              "spanId": "b9c7c989f97918e1",
+              "name": "test-span",
+              "startTimeUnixNano": 1676056682000000000,
+              "endTimeUnixNano": 1676056684000000000,
+              "kind": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
